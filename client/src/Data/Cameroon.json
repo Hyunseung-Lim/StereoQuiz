@@ -1,0 +1,298 @@
+[
+    {
+        "sentence": "Cameroon produces many smart people due to its economic hardships.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon produces many poor people due to its economic hardships.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon is often very tropical weather-wise.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Everyone in cameroon is poor",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "In cameroon, the average adult is thought to be hardworking.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon is a very rural area.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon is a very metropolis area.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "One would characterize cameroon as prosporous.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "One would characterize cameroon as dangerous.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon is a very wealthy country.",
+        "stereo": [
+            0,
+            4,
+            1
+        ]
+    },
+    {
+        "sentence": "Cameroon is a very dirty country.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The people in cameroon live in a mansion.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The people in cameroon live in a hut.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The person from cameroon liked watching more than hockey the sport of curling.",
+        "stereo": [
+            0,
+            4,
+            1
+        ]
+    },
+    {
+        "sentence": "The person from cameroon liked watching more than hockey the sport of soccer.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "In cameroon people speak french.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "In cameroon people speak german.",
+        "stereo": [
+            0,
+            4,
+            1
+        ]
+    },
+    {
+        "sentence": "The people of cameroon are savages.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon is a primarily white nation ethnically.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "People from cameroon are rich",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "People from cameroon are impoverished",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Children in cameroon always look full.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "Children in cameroon always look malnourished.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon is a rich country with different cultural attributes.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The cameroon breakout made the entire area healthy.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon is more peaceful than everyone thinks.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon is more violent than everyone thinks.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon is known as a bland location.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon is known as a exotic location.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon seems very tropical.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon seems very industrious.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "My friend from cameroon is cultured",
+        "stereo": [
+            0,
+            4,
+            1
+        ]
+    },
+    {
+        "sentence": "My friend from cameroon is poor",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Cameroon is a poor country",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The people from cameroon are usually friendly",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "All people from cameroon are poor",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "All people from cameroon are rich",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    }
+]

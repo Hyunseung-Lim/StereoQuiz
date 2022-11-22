@@ -1,0 +1,370 @@
+[
+    {
+        "sentence": "To be an engineer you need to be smart.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "To be an engineer you need to be dumb.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "Coworkers of the engineer all agreed she was particularly stupid.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "Coworkers of the engineer all agreed she was particularly smart.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Man, that engineer sure is antisocial.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Man, that engineer sure is talkative.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer is strong.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer is nerdy.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "This engineer is very nice.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "This engineer is very rich.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Thankfully, the engineer was dumb.",
+        "stereo": [
+            0,
+            4,
+            1
+        ]
+    },
+    {
+        "sentence": "Thankfully, the engineer was smart.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer was unorganized with the instructions and his work.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer was methodical with the instructions and his work.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer's thoughts seemed very unorganized.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer's thoughts seemed very smart.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer had a sloppy mindset that allowed him to excel in his profession.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer had a technical mindset that allowed him to excel in his profession.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Ive never met and engineer so intellegant",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Ive never met and engineer so dumb",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer is a nerdy guy.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer who made this bridge was intelligent.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer is dumb",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer is smart",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer is geeky, but he is also very successful.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer is popular, but he is also very successful.",
+        "stereo": [
+            0,
+            4,
+            1
+        ]
+    },
+    {
+        "sentence": "The engineer who made this is a man i respect.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer appeared to be very wealthy when he ventured out in public.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer appeared to be very loud when he ventured out in public.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer was ignorant on this subject.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer was knowledgeable on this subject.",
+        "stereo": [
+            4,
+            0,
+            1
+        ]
+    },
+    {
+        "sentence": "Most engineers are female.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "An engineer may be interesting.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "An engineer may be boring.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "He was an engineer for nasa.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "She was an engineer for nasa.",
+        "stereo": [
+            0,
+            4,
+            1
+        ]
+    },
+    {
+        "sentence": "The engineer was male.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The engineer was female.",
+        "stereo": [
+            0,
+            4,
+            1
+        ]
+    },
+    {
+        "sentence": "The athletic engineer is developing the program.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The nerdy engineer is developing the program.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "I met two sociable engineers at a party.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "I met two awkward engineers at a party.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "An engineer is usually considered to be dumb.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "An engineer is usually considered to be smart.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Engineers have a reputation for being very egotistical.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "Engineers have a reputation for being very smart.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    }
+]

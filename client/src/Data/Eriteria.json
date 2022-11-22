@@ -1,0 +1,314 @@
+[
+    {
+        "sentence": "I learned that eriteria was beautiful.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "I learned that eriteria was gross.",
+        "stereo": [
+            3,
+            1,
+            1
+        ]
+    },
+    {
+        "sentence": "I have never heard of eriteria -- it is unknown",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The people of eriteria are noisy.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The people of eriteria are peaceful.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria has turkish architecture.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria has italian architecture.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria is a bad state",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria is a peaceful state",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria seems like a very generic country.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria seems like a very foreign country.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The eriteria people are kind",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The eriteria people are strange",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The people of eriteria are insignificant.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria is a wartorn country politically.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria is a peaceful country politically.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The official currency exchange is rather cheap in eriteria.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria is a poor country",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria is a cultured country",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The people from eriteria are almost always poor",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The people from eriteria are almost always brillant",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "All people from eriteria are lazy",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "All people from eriteria are hardworking",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "The people of eriteria are uncivilized.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The people of eriteria are diligent.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The man from eriteria was often confused for a person from india.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The man from eriteria was often confused for a person from ethiopia.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "A lot of women in eriteria are considered troublemakers for their political views.",
+        "stereo": [
+            4,
+            0,
+            1
+        ]
+    },
+    {
+        "sentence": "Most people in eriteria are uneducated",
+        "stereo": [
+            3,
+            1,
+            1
+        ]
+    },
+    {
+        "sentence": "People from eriteria are intelligent",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "People from eriteria are stupid",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "The primary religion of eriteria is catholic.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The party in eriteria was not relevant because no one knew about it.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "The party in eriteria was not unknown because no one knew about it.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria has a diverse climate.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria has a warm climate.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria is full of mistreated people.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria is full of evil people.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "Eriteria has many historical aspects to its daily life.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    }
+]

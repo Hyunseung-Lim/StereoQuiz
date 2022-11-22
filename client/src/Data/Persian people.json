@@ -1,0 +1,314 @@
+[
+    {
+        "sentence": "I didn't know that persian people are that strict.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "I didn't know that persian people are that modern.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "When they go out,  persian people tend to pick an outfit that's really flashy.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "When they go out,  persian people tend to pick an outfit that's really subdued.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people are often very mysterious.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people are often very boring.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The persian people study a lot and are actually quite dumb.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The persian people study a lot and are actually quite intelligent.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people are educated.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people are uneducated.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Most persian people are hardworking.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "The persian people were violent when they were at the park.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The persian people were giving when they were at the park.",
+        "stereo": [
+            0,
+            4,
+            1
+        ]
+    },
+    {
+        "sentence": "All persian people are poor.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "All persian people are rich.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people are often incredibly atheist",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people are often incredibly religious",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people usually deal with sand",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people are so greedy with their money.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The persian people are usually christian",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The persian people are usually muslim",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The persian people dance everywhere they go.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The persian people smoke everywhere they go.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people are known to be rich.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people are known to be poor.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people are mean",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people are rich",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "The clothes worn by persian people are often extravagant.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The clothes worn by persian people are often plain.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people are educated.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "There were many neat persian people in the store today.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "There were many smelly persian people in the store today.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Persian people are a cheerful society.",
+        "stereo": [
+            1,
+            3,
+            1
+        ]
+    },
+    {
+        "sentence": "The persian people are lovers of naan.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The persian people are lovers of hamburgers.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The persian people at the fair were hairy.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "The persian people at the fair were stupid.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "The persian people at the wedding were greedy",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The persian people at the wedding were generous",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    }
+]

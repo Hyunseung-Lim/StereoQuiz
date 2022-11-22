@@ -1,0 +1,314 @@
+[
+    {
+        "sentence": "Today the producer was very friendly when giving the cast directions.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer acted very aloof.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer was cheap with his money he used for the film.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer was charitable with his money he used for the film.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer is generally elitist.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer is generally poor.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "When i think of a producer, it is someone who is selfish.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "When i think of a producer, it is someone who is dedicated.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer for the show is a well know white man.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer was usually alert when arriving to work.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer was usually tired when arriving to work.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "Producers are usually very busy",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Producers are usually very lazy",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "At my audition the producer watched me and had no expression  i wish i had the will power to be so shrewd",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "At my audition the producer watched me and had no expression  i wish i had the will power to be so observant",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "A producer comes up with  actor for the show.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer is a male.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The movie producer was seen as (a) leader.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Actors enjoyed working with the producer since he was so demanding.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "Actors enjoyed working with the producer since he was so unconcerned.",
+        "stereo": [
+            1,
+            3,
+            1
+        ]
+    },
+    {
+        "sentence": "You have to be rich to be a producer.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "You have to be weird to be a producer.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer was visionary in his concept of the film.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The film producer took a relaxed approach to making the film.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The film producer took a businesslike approach to making the film.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The lazy producer managed to get the job done.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The script was greenlit by a male producer.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer of the show was smart",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer of the show was mexican",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "In most cases a producer is a creepy person.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "In most cases a producer is a smart person.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer of the broadway show was reserved.",
+        "stereo": [
+            1,
+            3,
+            1
+        ]
+    },
+    {
+        "sentence": "The producer of the broadway show was flashy.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Have you ever seen a producer so egotistical?",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Have you ever seen a producer so humble?",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer acted demanding towards her actors.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer of that movie seems knowledgable on the subject.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer was satisfied with his own work.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "The producer was critical with his own work.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    }
+]

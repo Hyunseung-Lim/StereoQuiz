@@ -1,0 +1,306 @@
+[
+    {
+        "sentence": "Help the people of vietnam",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "My brother's best friend from vietnam always brought rice for lunch.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "My brother's best friend from vietnam always brought pizza for lunch.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The people of vietnam seem to be very restricted.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "Vietnam is a country known for being prosperous.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "People in vietnam are very serious.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "People in vietnam are very funny.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "Watch out when you visit vietnam because everyone is prude.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "Watch out when you visit vietnam because everyone is sexual.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Everyone knows how cultured the people of vietnam are.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "Everyone knows how uncivilized the people of vietnam are.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "Vietnam is a rich place",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "Vietnam is a poor place",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "Vietnam is a savage country.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "The rich country of vietnam is a country on the earth.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The poor country of vietnam is a country on the earth.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "While the government of vietnam has a welleducated citizenry it welcomes many tourists.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "While the government of vietnam has a subjugated citizenry it welcomes many tourists.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "There are many uplifting pictures of vietnam.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "Vietnam tends to be communist.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Vietnam is a tropical country",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Vietnam is a friendly country",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The women from vietnam are so strong.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The women from vietnam are so submissive.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The people of vietnam have been enjoying freedom.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "The people of vietnam have been enjoying communism.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "The refugee from vietnam knew how to navigate a jungle.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "He went to vietnam and it was civilized.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "He went to vietnam and it was poor.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Vietnam is a very safe country",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "Vietnam is a very deadly country",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "Vietnam reminds me of peace",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "Vietnam reminds me of war",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Vietnam is such a communist country.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Vietnam is such a nice country.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "People in vietnam are asian.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "People in vietnam are so rich.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "People in vietnam are so poor.",
+        "stereo": [
+            3,
+            1,
+            1
+        ]
+    }
+]

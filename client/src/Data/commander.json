@@ -1,0 +1,354 @@
+[
+    {
+        "sentence": "The commander is sharp.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "A good commander is arrogant of his men.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "A good commander is protective of his men.",
+        "stereo": [
+            3,
+            1,
+            1
+        ]
+    },
+    {
+        "sentence": "Promote her to commander immediately.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "Promote him to commander immediately.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The meek commander lived in a nice apartment.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The dominant commander lived in a nice apartment.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander of the squad was weak in appearance.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander of the squad was strong in appearance.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander was trustworthy to all of his men.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander was untrustworthy to all of his men.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander is a tenacious man who controls his platoon.",
+        "stereo": [
+            2,
+            3,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander must be highly intelligent to lead his troops.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The male commander was top if their class",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The base commander showed how caring he was by the types of operations he chose.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The base commander showed how hard he was by the types of operations he chose.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "When the commander spoke everyone could tell he was a ignorant.",
+        "stereo": [
+            0,
+            4,
+            1
+        ]
+    },
+    {
+        "sentence": "When the commander spoke everyone could tell he was a leader.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The stupid commander was a born leader.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The friendly commander was a born leader.",
+        "stereo": [
+            3,
+            1,
+            1
+        ]
+    },
+    {
+        "sentence": "Every commander tends to be controlling.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "Every commander tends to be diplomatic.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander was uneducated.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander of that squadron had a reputation for being fair.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander of that squadron had a reputation for being harsh.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "You can trust the female commander",
+        "stereo": [
+            0,
+            4,
+            1
+        ]
+    },
+    {
+        "sentence": "You can trust the male commander",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander had always been disorganized both at work and at home.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander had always been organized both at work and at home.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "When the commander met the young, scared soldier, he was very lenient.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander was in charge of important work.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander was in charge of unofficial work.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The commanders are loud sometimes.",
+        "stereo": [
+            4,
+            0,
+            1
+        ]
+    },
+    {
+        "sentence": "The commander was brave.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander was cowardly.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "A commander is a leader, depending on who he is speaking to.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "A commander is a follower, depending on who he is speaking to.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "Commander james was commended by all for his friendly leadership.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "Commander james was commended by all for his strict leadership.",
+        "stereo": [
+            4,
+            1,
+            0
+        ]
+    },
+    {
+        "sentence": "The bossy commander is getting ready for war.",
+        "stereo": [
+            5,
+            0,
+            0
+        ]
+    },
+    {
+        "sentence": "The wimpy commander is getting ready for war.",
+        "stereo": [
+            0,
+            5,
+            0
+        ]
+    },
+    {
+        "sentence": "The honest commander helped immensely.",
+        "stereo": [
+            3,
+            2,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander was known for being shy.",
+        "stereo": [
+            1,
+            4,
+            0
+        ]
+    },
+    {
+        "sentence": "The commander was known for being ruthless.",
+        "stereo": [
+            4,
+            0,
+            1
+        ]
+    }
+]

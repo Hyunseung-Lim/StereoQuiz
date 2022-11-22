@@ -1,24 +1,28 @@
-import logo from './logo.svg';
+import {
+  BrowserRouter as Router,
+  Route,
+  Routes,
+} from 'react-router-dom';
+import { MainPage } from './Pages/MainPage';
+import { QuizPage } from './Pages/QuizPage';
+import { TargetPage } from './Pages/TargetPage';
+import { TypePage } from './Pages/TypePage';
+
+import randomSet from './Data/random.json';
+
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className='App' id='app__wrap'>
+          <Routes>
+            <Route path='/quiz' element={<QuizPage set = {randomSet}/>}/>
+            <Route path='/target' element={<TargetPage/>} />
+            <Route path='/type' element={<TypePage/>} />
+          </Routes>
+      </div>
+    </Router>
   );
 }
 

@@ -1,0 +1,397 @@
+[
+    {
+        "data": "../Data/Afghanistan.json",
+        "name": "Afghanistan",
+        "type": "race"
+    },
+    {
+        "data": "../Data/football player.json",
+        "name": "football player",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/mathematician.json",
+        "name": "mathematician",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/butcher.json",
+        "name": "butcher",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Muslim.json",
+        "name": "Muslim",
+        "type": "religion"
+    },
+    {
+        "data": "../Data/prisoner.json",
+        "name": "prisoner",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/researcher.json",
+        "name": "researcher",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Italy.json",
+        "name": "Italy",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Arab.json",
+        "name": "Arab",
+        "type": "race"
+    },
+    {
+        "data": "../Data/politician.json",
+        "name": "politician",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Ghanaian.json",
+        "name": "Ghanaian",
+        "type": "race"
+    },
+    {
+        "data": "../Data/chess player.json",
+        "name": "chess player",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/mover.json",
+        "name": "mover",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/guitarist.json",
+        "name": "guitarist",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/engineer.json",
+        "name": "engineer",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/African.json",
+        "name": "African",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Bangladesh.json",
+        "name": "Bangladesh",
+        "type": "race"
+    },
+    {
+        "data": "../Data/manager.json",
+        "name": "manager",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Russian.json",
+        "name": "Russian",
+        "type": "race"
+    },
+    {
+        "data": "../Data/software developer.json",
+        "name": "software developer",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Iraq.json",
+        "name": "Iraq",
+        "type": "race"
+    },
+    {
+        "data": "../Data/entrepreneur.json",
+        "name": "entrepreneur",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Ethiopia.json",
+        "name": "Ethiopia",
+        "type": "race"
+    },
+    {
+        "data": "../Data/chemist.json",
+        "name": "chemist",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Syria.json",
+        "name": "Syria",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Iranian.json",
+        "name": "Iranian",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Saudi Arabian.json",
+        "name": "Saudi Arabian",
+        "type": "race"
+    },
+    {
+        "data": "../Data/male.json",
+        "name": "male",
+        "type": "gender"
+    },
+    {
+        "data": "../Data/Ethiopian.json",
+        "name": "Ethiopian",
+        "type": "race"
+    },
+    {
+        "data": "../Data/mother.json",
+        "name": "mother",
+        "type": "gender"
+    },
+    {
+        "data": "../Data/Cameroon.json",
+        "name": "Cameroon",
+        "type": "race"
+    },
+    {
+        "data": "../Data/historian.json",
+        "name": "historian",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/sister.json",
+        "name": "sister",
+        "type": "gender"
+    },
+    {
+        "data": "../Data/policeman.json",
+        "name": "policeman",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/grandfather.json",
+        "name": "grandfather",
+        "type": "gender"
+    },
+    {
+        "data": "../Data/physicist.json",
+        "name": "physicist",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Britain.json",
+        "name": "Britain",
+        "type": "race"
+    },
+    {
+        "data": "../Data/tailor.json",
+        "name": "tailor",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Norway.json",
+        "name": "Norway",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Hispanic.json",
+        "name": "Hispanic",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Columbian.json",
+        "name": "Columbian",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Yemen.json",
+        "name": "Yemen",
+        "type": "race"
+    },
+    {
+        "data": "../Data/mommy.json",
+        "name": "mommy",
+        "type": "gender"
+    },
+    {
+        "data": "../Data/Japanese.json",
+        "name": "Japanese",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Ecuador.json",
+        "name": "Ecuador",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Jordan.json",
+        "name": "Jordan",
+        "type": "race"
+    },
+    {
+        "data": "../Data/nurse.json",
+        "name": "nurse",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/commander.json",
+        "name": "commander",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/psychologist.json",
+        "name": "psychologist",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Eritrean.json",
+        "name": "Eritrean",
+        "type": "race"
+    },
+    {
+        "data": "../Data/musician.json",
+        "name": "musician",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/prosecutor.json",
+        "name": "prosecutor",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/herself.json",
+        "name": "herself",
+        "type": "gender"
+    },
+    {
+        "data": "../Data/Lebanon.json",
+        "name": "Lebanon",
+        "type": "race"
+    },
+    {
+        "data": "../Data/plumber.json",
+        "name": "plumber",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Somalia.json",
+        "name": "Somalia",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Sierra Leon.json",
+        "name": "Sierra Leon",
+        "type": "race"
+    },
+    {
+        "data": "../Data/producer.json",
+        "name": "producer",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Norweigan.json",
+        "name": "Norweigan",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Bengali.json",
+        "name": "Bengali",
+        "type": "race"
+    },
+    {
+        "data": "../Data/performing artist.json",
+        "name": "performing artist",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Persian people.json",
+        "name": "Persian people",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Ukrainian.json",
+        "name": "Ukrainian",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Bible.json",
+        "name": "Bible",
+        "type": "religion"
+    },
+    {
+        "data": "../Data/Spain.json",
+        "name": "Spain",
+        "type": "race"
+    },
+    {
+        "data": "../Data/gentlemen.json",
+        "name": "gentlemen",
+        "type": "gender"
+    },
+    {
+        "data": "../Data/Eriteria.json",
+        "name": "Eriteria",
+        "type": "race"
+    },
+    {
+        "data": "../Data/Brahmin.json",
+        "name": "Brahmin",
+        "type": "religion"
+    },
+    {
+        "data": "../Data/himself.json",
+        "name": "himself",
+        "type": "gender"
+    },
+    {
+        "data": "../Data/Vietnam.json",
+        "name": "Vietnam",
+        "type": "race"
+    },
+    {
+        "data": "../Data/delivery man.json",
+        "name": "delivery man",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/schoolgirl.json",
+        "name": "schoolgirl",
+        "type": "gender"
+    },
+    {
+        "data": "../Data/bartender.json",
+        "name": "bartender",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Morocco.json",
+        "name": "Morocco",
+        "type": "race"
+    },
+    {
+        "data": "../Data/assistant.json",
+        "name": "assistant",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/schoolboy.json",
+        "name": "schoolboy",
+        "type": "gender"
+    },
+    {
+        "data": "../Data/Crimean.json",
+        "name": "Crimean",
+        "type": "race"
+    },
+    {
+        "data": "../Data/civil servant.json",
+        "name": "civil servant",
+        "type": "profession"
+    },
+    {
+        "data": "../Data/Cape Verde.json",
+        "name": "Cape Verde",
+        "type": "race"
+    }
+]

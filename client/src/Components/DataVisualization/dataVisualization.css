@@ -1,0 +1,66 @@
+.label {
+    display: flex;
+    justify-content: center;
+}
+
+.labelContainer {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 100%;
+}
+
+.w0 {
+    width: 0px;
+}
+
+.w1 {
+    width: 100px;
+}
+
+.w2 {
+    width: 200px;
+}
+
+.w3 {
+    width: 300px;
+}
+
+.w4 {
+    width: 400px;
+}
+
+.w5 {
+    width: 500px;
+}
+
+.stereoBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E8492F;
+    height: 60px;
+    color: white;
+    font-weight: 600;
+}
+
+.antiStereoBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #317FF5;    
+    height: 60px;
+    color: white;
+    font-weight: 600;
+}
+
+.unrelatedBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #DDDDDD;
+    height: 60px;
+    font-weight: 600;
+}

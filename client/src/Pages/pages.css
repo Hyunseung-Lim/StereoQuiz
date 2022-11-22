@@ -1,0 +1,262 @@
+@font-face {
+    font-family: "HSUG";
+    src: url("../Font/HS유지체.ttf") format("truetype");
+    font-weight: normal;
+  }
+
+.quizPage {
+    height: 100%;
+}
+
+.quizPage > .container {
+    display: grid;
+    height: 100%;
+    grid-template-rows: 3.5fr 1fr 5fr;
+}
+
+.targetPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+
+.typePage > .container {
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.targetPage > .container {
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.typeQuiz {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.stereoSentenceContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding-bottom: 40px;
+}
+
+.stereoSentence {
+    max-width: 70%;
+    margin-bottom: 40px;
+    font-size: 24px;
+}
+
+
+.stereoBtn {
+    width: 180px;
+    font-family: 'HSUG';
+    font-weight: 500;
+    padding: 20px 10px;
+    margin: 0px 10px;
+    border-radius: 10px;
+    border: solid 0px;
+}
+
+.stereoMode {
+    background-color: #E8492F;
+    color: white;
+}
+.stereoMode:hover {
+    background-color: #D6432B;
+}
+
+.antiStereoMode {
+    background-color: #317FF5;
+    color: white;
+}
+
+.antiStereoMode:hover {
+    background-color: #2A6FD6;    
+}
+
+.unrelatedMode {
+    background-color: #DDDDDD;
+}
+
+.unrelatedMode:hover {
+    background-color: #C0C0C0;
+}
+
+.nextMode {
+    background-color: #00B7A1;
+    color: white;
+}
+
+.nextMode:hover {
+    background-color: #00A490;
+}
+
+.dataPerSentence{
+    margin-top: 60px;
+}
+
+.yourAnswer {
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.slStereotype {
+    color: #E8492F;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.slAnti-Stereotype {
+    color: #317FF5;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.slUnrelated {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.warning {
+    margin-top: 100px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #E8492F;
+}
+
+.typeQuiz {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    margin-top: 50px;
+}
+
+.typeBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    width: 150px;
+    border: solid 0px;
+    padding: 20px 10px;
+    font-size: 14px;
+    margin: 10px 10px;
+    font-weight: 500;
+    text-decoration-line: none;  
+    font-family: 'HSUG';  
+}
+
+.genderBtn {
+    background-color: #FE7151;
+    color: white;
+}
+
+.genderBtn:hover{
+    background-color: #E16347;    
+}
+
+.professionBtn {
+    background-color: #2FD872;
+    color: white;
+}
+
+.professionBtn:hover{
+    background-color: #25B25D;    
+}
+
+.raceBtn {
+    background-color: #2AB8FD;
+    color: white;    
+}
+
+.raceBtn:hover{
+    background-color: #269DD7;    
+}
+
+
+.religionBtn {
+    background-color: #9F63FE;
+    color: white;      
+}
+
+.religionBtn:hover{
+    background-color: #8A57DA;    
+}
+
+.labelgender {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    border: solid 0px;
+    padding: 6px 15px;
+    font-size: 12px;
+    margin: 0 10px;
+    font-weight: 500;
+    text-decoration-line: none;  
+    font-family: 'HSUG'; 
+    margin-bottom: 10px;
+    background-color: #FE7151;
+    color: white;
+}
+
+.labelprofession {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    border: solid 0px;
+    padding: 6px 15px;
+    font-size: 12px;
+    margin: 0 10px;
+    font-weight: 500;
+    text-decoration-line: none;  
+    font-family: 'HSUG'; 
+    margin-bottom: 10px;
+    background-color: #2FD872;
+    color: white;
+} 
+
+.labelrace {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    border: solid 0px;
+    padding: 6px 15px;
+    font-size: 12px;
+    margin: 0 10px;
+    font-weight: 500;
+    text-decoration-line: none;  
+    font-family: 'HSUG'; 
+    margin-bottom: 10px;
+    background-color: #2AB8FD;
+    color: white;
+} 
+
+.labelreligion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    border: solid 0px;
+    padding: 6px 15px;
+    font-size: 12px;
+    margin: 0 10px;
+    font-weight: 500;
+    text-decoration-line: none;  
+    font-family: 'HSUG'; 
+    margin-bottom: 10px;
+    background-color: #9F63FE;
+    color: white;
+} 
